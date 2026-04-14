@@ -1,0 +1,1 @@
+{  "name": "tazara-memorial-park",  "version": "1.0.0",  "dependencies": {    "react": "^18.0.0",    "next": "^12.0.0",    "react-dom": "^18.0.0",    "next-optimized-images": "^2.6.0"  }}
